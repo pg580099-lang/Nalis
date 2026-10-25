@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalogo>
+
+    <servicio>
+        <codigo>S001</codigo>
+        <nombre>Extensiones de pestañas</nombre>
+        <categoria>Pestañas</categoria>
+        <precio>1000</precio>
+        <descripcion>Extensiones para realzar la mirada.</descripcion>
+        <imagen>pestañas.jpg</imagen>
+    </servicio>
+
+    <servicio>
+        <codigo>S002</codigo>
+        <nombre>Trenzas africanas</nombre>
+        <categoria>Trenzas</categoria>
+        <precio>1500</precio>
+        <descripcion>Peinados con diferentes diseños.</descripcion>
+        <imagen>trenzas.jpg</imagen>
+    </servicio>
+
+    <servicio>
+        <codigo>S003</codigo>
+        <nombre>Box braids</nombre>
+        <categoria>Trenzas</categoria>
+        <precio>2000</precio>
+        <descripcion>Trenzas de diferentes tamaños y longitudes.</descripcion>
+        <imagen>box-braids.jpg</imagen>
+    </servicio>
+
+    <servicio>
+        <codigo>S004</codigo>
+        <nombre>Lifting de pestañas</nombre>
+        <categoria>Pestañas</categoria>
+        <precio>800</precio>
+        <descripcion>Servicio para realzar las pestañas naturales.</descripcion>
+        <imagen>lifting.jpg</imagen>
+    </servicio>
+
+    <servicio>
+    <nombre>Servicio de uñas</nombre>
+    <descripcion>Aplicación de uñas con diferentes largos y diseños.</descripcion>
+    <precio>500</precio>
+</servicio>
+
+</catalogo>
